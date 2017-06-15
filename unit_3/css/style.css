@@ -1,0 +1,22 @@
+body {
+	background-color: rgba(0,0,0,.3);
+	font-family: Helvetica;
+}
+
+h1 {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+.link {
+	color: rgb(255,102,0);
+	text-decoration: none;
+	text-shadow: 1px 1px #000000
+}
+
+#slogan {
+	font-style: italic;
+}
