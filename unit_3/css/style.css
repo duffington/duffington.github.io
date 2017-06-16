@@ -1,6 +1,9 @@
 body {
 	background-color: rgba(0,0,0,.3);
 	font-family: Helvetica;
+	background-image: url(../images/heroimage.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 h1 {
