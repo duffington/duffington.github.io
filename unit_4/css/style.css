@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Chivo:900|Open+Sans');
+
+
+body {
+	background-color: rgba(0,0,0,.3);
+	font-family: Helvetica;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	color: white;
+    font-family: 'Chivo', sans-serif; 
+}
+
+h2 {
+	color: white;
+	font-family: 'Chivo', sans-serif;
+}
+
+.link {
+	color: rgb(255,102,0);
+	text-decoration: none;
+	text-shadow: 1px 1px #000000
+}
+
+#slogan {
+	font-style: italic;
+}
