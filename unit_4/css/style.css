@@ -9,12 +9,13 @@ body {
 h1 {
 	color: white;
     font-family: 'Chivo', sans-serif;
-    font-size: 30px 
+    font-size: 100px 
 }
 
 h2 {
 	color: white;
 	font-family: 'Chivo', sans-serif;
+	font-size: 2em
 }
 
 .link {
@@ -25,4 +26,5 @@ h2 {
 
 #slogan {
 	font-style: italic;
+	font-size:3em;
 }
