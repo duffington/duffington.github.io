@@ -12,27 +12,28 @@ header {
 	padding: 20px;
 }
 
+
 footer {
-	background-color: ##FF957E;
+	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 .wrapper {
-	background-color: ##FFE2B8;
+	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #intro {
-	background-color: ##FFE2B8;
+	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 
 #details {
-	background-color: ##FFE2B8;
+	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
 }
