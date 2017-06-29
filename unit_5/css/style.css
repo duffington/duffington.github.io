@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Chivo:900|Open+Sans');
+
+
+body {
+	background-color: rgba(0,0,0,.3);
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: ##FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.wrapper{
+	background-color: ##FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#intro {
+	background-color: ##FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+#details {
+	background-color: ##FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	color: white;
+    font-family: 'Chivo', sans-serif;
+    font-size: 100px 
+}
+
+h2 {
+	color: white;
+	font-family: 'Chivo', sans-serif;
+	font-size: 2em
+}
+
+.link {
+	color: rgb(255,102,0);
+	text-decoration: none;
+	text-shadow: 1px 1px #000000
+}
+
+#slogan {
+	font-style: italic;
+	font-size:3em;
+}
